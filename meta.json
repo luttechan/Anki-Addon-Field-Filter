@@ -1,0 +1,1 @@
+{"name": "Periodic Auto Sync", "disabled": false, "config": {"enabled": true, "interval_minutes": 25, "sync_on_start": true}}

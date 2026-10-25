@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "interval_minutes": 10,
+  "sync_on_start": false
+}
